@@ -1,10 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.kh.chuzr",
       "sha256_cert_fingerprints": [
+        "14:B0:60:F4:38:0F:55:4F:4A:3F:04:48:4C:2E:27:09:D8:7A:B1:33:4D:A1:D2:31:48:0E:F2:2A:A7:66:A4:D5",
         "92:81:67:96:DF:31:F6:14:9B:42:E4:54:AB:B0:9E:27:2F:BB:70:B2:C9:79:0C:C7:20:53:BF:D1:9D:5B:26:BC"
       ]
     }
