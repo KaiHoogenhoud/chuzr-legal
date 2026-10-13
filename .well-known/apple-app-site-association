@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4984UV3T5U.com.kh.chuzr"],
+        "components": [
+          { "/": "/join/*", "comment": "Uitnodigingslinks voor een groep" },
+          { "/": "/join", "comment": "Uitnodigingslinks zonder slash" }
+        ]
+      }
+    ]
+  }
+}
